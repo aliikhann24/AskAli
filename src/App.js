@@ -192,7 +192,6 @@ function App() {
         <div style={{ display: 'flex', justifyContent: 'center', gap: '24px', marginTop: '20px' }}>
           {[
             { label: 'GitHub', url: ("https://github.com/aliikhann24") },
-            { label: 'LinkedIn', url: ("www.linkedin.com/in/muhammad-ali-khan-6363503aa")},
             { label: 'Portfolio', url: ("https://portfolio-murex-zeta-r1kpl6bzix.vercel.app/") },
           ].map(link => (
             <a key={link.label} href={link.url} target="_blank" rel="noreferrer"
