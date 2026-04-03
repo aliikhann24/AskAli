@@ -7,7 +7,7 @@ const profile = {
   email: "makaic18@gmail.com",
   phone: "+92 300 2555226",
   github: "https://github.com/aliikhann24",
-  linkedin: "https://www.linkedin.com/in/muhammad-ali-khan-6363503aa",
+  linkedin: "https://linkedin.com/in/muhammad-ali-khan-6363503aa",
   portfolio: "https://portfolio-murex-zeta-r1kpl6bzix.vercel.app/",
   availability: "Available for frontend internships and junior roles",
   languages: ["English", "Urdu"],
